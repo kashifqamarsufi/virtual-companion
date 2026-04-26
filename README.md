@@ -248,12 +248,4 @@ Developed as the **Major Final Year Project** for the Bachelor of Technology in 
 
 ---
 
-## License
 
-MIT License. See `LICENSE` for details.
-
----
-
-<p align="center">
-Built at IUST Kashmir &nbsp;·&nbsp; Whisper · Coqui TTS · Unreal Engine 5
-</p>
